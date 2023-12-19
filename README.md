@@ -6,3 +6,8 @@ A fun and interactive JavaScript-based word scramble game where players unscramb
 
 ![Wireframe](word-scramble-wireframe.png)
 
+# My Word Scramble Game
+
+Check out the live version of the game [here](https://hollis-brown.github.io/module-2-js-final-project-hollis-brown/start.html).
+
+
