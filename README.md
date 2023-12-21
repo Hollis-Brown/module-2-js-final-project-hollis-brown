@@ -6,3 +6,4 @@ A fun and interactive JavaScript-based word scramble game where players unscramb
 
 ![Wireframe](word-scramble-wireframe.png)
 
+# oop-game-challenge
